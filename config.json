@@ -1,0 +1,14 @@
+{
+    "1": {
+        "website": "http://<router-1-website>",
+        "username": "<username>",
+        "password": "<password>"
+    },
+    "2": {
+        "website": "http://<router-2-website>"
+    },
+    "3": {
+        "website": "http://<router-3-website>",
+        "password": "<password>"
+    }
+}
